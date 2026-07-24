@@ -35,10 +35,11 @@ A research project demonstrating odor classification with machine learning, usin
 4. **References**: OSHA/NIOSH thresholds, SMILES/DREAM datasets.
 
 ## Contributors
+- Gauravi Suryavamshi  
 - Dhruti Avadhani  
 - Aneesh Adithya SR  
 - Buvica M  
-- Gauravi Suryavamshi  
+
 
 ---
 **License**: MIT  
